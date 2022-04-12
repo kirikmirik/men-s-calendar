@@ -1,0 +1,6 @@
+buhich_begin()
+drink("sidr", 500, 2)
+drink("shot", 50, 2)
+drink("martini", 100, 2)
+drink("sidr", 500, 2)
+buhich_end() 
